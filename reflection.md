@@ -39,7 +39,7 @@ answer/context trace trong `artifacts/actual_answers.json` trước khi kết lu
 **Chẩn đoán tổng quan:** Vấn đề chính nằm ở retrieval, generation hay cả hai?
 Dùng ít nhất hai metrics để bảo vệ kết luận.
 
-> *Câu trả lời:*
+> *Câ
 
 ---
 
